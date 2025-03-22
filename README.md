@@ -1,5 +1,3 @@
-# TrabalhoFinal
-Meu Trabalho Final de POO
+# Jogo RPG
 
-João Victor de Almeida - 13695424
-xxxxxx - xxxxxxx
+Esse pequeno projeto foi um jogo em que desenvolvi em c++. Usado para treinar conceitos de C++ e orientação a Objetos.
